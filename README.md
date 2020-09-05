@@ -23,7 +23,7 @@ pcan driver only works with the version of the Linux kernel (LTS Ubuntu kernel i
 
 ---
 
-## Instalation (ROS Kinetic on Ubuntu 16.04)
+## Instalation (ROS Kinetic on Ubuntu 16.04.6 LTS)
 
 Use make to build and install pcan-python (check dependencies):
 
